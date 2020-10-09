@@ -1,6 +1,6 @@
 # DungeonCrawl
 
-**TODO: Add description**
+Crawl if you dare.
 
 ## Installation
 
